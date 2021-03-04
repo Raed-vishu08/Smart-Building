@@ -12,4 +12,4 @@ project has given me confidence to work further on Fire sensors, ultrasonic sens
 
 
 ThingSpeak data
-https://api.thingspeak.com/channels.json?api_key=6FTLTSEL1O5VWFCH
+https://thingspeak.com/channels/887302#.YEBdjjiJ_kE.gmail
